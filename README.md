@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # news_api
 
 A new Flutter project.
@@ -16,6 +17,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
+=======
+>>>>>>> d45e279e71b0f4b73ae07fdc68c584beadb587b4
 # News_App_Flutter
 Created a News app in flutter and integrated the NewsApp.org API for fetching real time news.
 # Flutter News App
@@ -67,4 +70,7 @@ http: A package for making HTTP requests.
 cached_network_image: A flutter library to show images from the internet and keep them in the cache directory.
 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
+<<<<<<< HEAD
 >>>>>>> origin/main
+=======
+>>>>>>> d45e279e71b0f4b73ae07fdc68c584beadb587b4
